@@ -2,7 +2,7 @@ NAME
     Sub::Spec::DepChecker - Check dependencies from 'deps' spec clause
 
 VERSION
-    version 0.02
+    version 0.03
 
 SYNOPSIS
      use Sub::Spec::DepChecker qw(check_deps);

@@ -14,9 +14,10 @@ meta-spec:
   version: 1.4
 name: Sub-Spec-DepChecker
 requires:
+  File::Which: 0
   Test::More: 0.96
   perl: 5.010000
 resources:
   homepage: http://search.cpan.org/dist/Sub-Spec-DepChecker/
   repository: http://github.com/sharyanto/perl-Sub-Spec-DepChecker
-version: 0.02
+version: 0.03

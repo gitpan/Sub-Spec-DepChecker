@@ -17,12 +17,13 @@ my %module_build_args = (
     "Steven Haryanto <stevenharyanto\@gmail.com>"
   ],
   "dist_name" => "Sub-Spec-DepChecker",
-  "dist_version" => "0.02",
+  "dist_version" => "0.03",
   "license" => "perl",
   "module_name" => "Sub::Spec::DepChecker",
   "recommends" => {},
   "recursive_test_files" => 1,
   "requires" => {
+    "File::Which" => 0,
     "Test::More" => "0.96",
     "perl" => "5.010000"
   },

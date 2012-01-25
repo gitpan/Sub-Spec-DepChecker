@@ -1,6 +1,6 @@
 package Sub::Spec::DepChecker;
 {
-  $Sub::Spec::DepChecker::VERSION = '0.02';
+  $Sub::Spec::DepChecker::VERSION = '0.03';
 }
 
 use 5.010;
@@ -117,7 +117,7 @@ Sub::Spec::DepChecker - Check dependencies from 'deps' spec clause
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 SYNOPSIS
 
